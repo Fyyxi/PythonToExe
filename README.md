@@ -30,7 +30,7 @@ This is a simple tool to convert Python scripts to standalone executables (EXE) 
     
     
     ```
-python python_to_exe_gui.py
+
 
 
 ## License
